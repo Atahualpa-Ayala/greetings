@@ -2,7 +2,7 @@
 % Please edit documentation in R/aloha.R
 \name{say_aloha}
 \alias{say_aloha}
-\title{Says Aloah to a friend}
+\title{Says Aloha to a friend}
 \usage{
 say_aloha(name)
 }
@@ -15,7 +15,7 @@ say_aloha(name)
 (character) An aloha message
 }
 \description{
-Says Aloah to a friend
+Says Aloha to a friend
 }
 \examples{
 say_aloha("Allison")

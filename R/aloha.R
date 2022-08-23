@@ -1,5 +1,5 @@
 
-#' Says Aloah to a friend
+#' Says Aloha to a friend
 #'
 #' @param name a character
 #' @param print a logical
@@ -16,6 +16,8 @@ say_aloha <- function(name) {
                    emo::ji("sunny"),
                    emo::ji("ocean"))
 
-  cat(crayon::bgBlue(message))
+
+  cat(crayon::cyan(message))
+
 }
 
