@@ -18,3 +18,4 @@ say_aloha <- function(name) {
 
   cat(crayon::bgBlue(message))
 }
+
