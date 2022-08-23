@@ -10,7 +10,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/brunj7/greetings
 BugReports: https://github.com/brunj7/greetings/issues
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1
 Imports: crayon, emo
 Remotes: hadley/emo
 Suggests: testthat,
